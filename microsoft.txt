@@ -16,7 +16,6 @@ agent.microsoft.com
 ailogiq.com
 alerts.microsoft.com
 answers-test.microsoft.com
-answers.microsoft.com
 anti-spamtools.org
 api.microsoft.com
 applications.microsoft.com
