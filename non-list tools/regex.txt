@@ -1,9 +1,3 @@
-^.*[#].*\n
-
-^$\n
-
- [#].*
-
-^(.*)(\n\1)+$   $1
-
-^.*CONTENT.*$\n
+4 FROMAGES	
+TARTIFLETTE
+POULET CURRY

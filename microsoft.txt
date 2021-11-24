@@ -269,7 +269,6 @@ ilovemessenger.com
 imagine-live.com
 imagine-windowslive.com.br
 imagine-wl.com.br
-img-prod-cms-rt-microsoft-com.akamaized.net
 img.microsoft.com
 info.microsoft.com
 info1.microsoft.com
