@@ -1860,10 +1860,10 @@ trymicrosoftoffice.com
 ts.microsoft.com
 uhf.microsoft.com
 uk-mobile.events.data.microsoft.com
-uk-v20.events.data.microsoft.cπom
+uk-v20.events.data.microsoft.com
 uk.mobile.events.data.microsoft.com
 uk.vortex-win.data.microsoft.com
-umwatson.events.data.microsoft.comπ
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umwatsonc.telemetry.microsoft.com
 update.microsoft.com
