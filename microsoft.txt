@@ -1835,7 +1835,6 @@ statsfe2.ws.microsoft.com
 stores.microsoft.com
 subscribenet.com
 support-test.microsoft.com
-support.microsoft.com
 support2.microsoft.com
 survey.microsoft.com
 survey.watson.microsoft.com
