@@ -1651,7 +1651,6 @@ static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
 static.hootsuite.com
-static.whatsapp.net
 static.xx.fbcdn.net
 staticxx.facebook.com
 stormberg.m.facebook.com
