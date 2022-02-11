@@ -1794,7 +1794,6 @@ searchalliance.com
 searchperks.com
 secure.bingads.microsoft.com
 security.microsoft.com
-self.events.data.microsoft.com
 sensormap.org
 sertifikasi-microsoft.com
 server.events.data.microsoft.com
